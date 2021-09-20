@@ -1,0 +1,27 @@
+/* Body */
+body{background-color: #F3F1FF;}
+
+/* Header */
+header{background-color: #562EFF;}
+.container{max-width: 870px;}
+
+/* Main content */
+/* Top Player */
+.container{border-radius: 5px;}
+main h2{color: #562EFF;}
+.player img{max-width: 56px;}
+hr{color: #adabab;}
+
+/* Top Blog */
+.blog-img img{max-width: 125px;}
+
+/* Courses */
+.course-item img{max-width: 224px;}
+.time{background-color: #FFE4E8; border-radius: 14.6913px;}
+.time img{max-width: 20px;}
+.time span{color: #FF4A60;}
+.course-item{border-radius: 5px;}
+h4{font-size: 20px;}
+
+/* Footer */
+footer{background-color: #524A78;}
